@@ -1,4 +1,4 @@
-const products = {
+van products = {
     phones: [
         {
             id: 'p1',
