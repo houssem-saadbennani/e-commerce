@@ -1,4 +1,4 @@
-van products = {
+var products = {
     phones: [
         {
             id: 'p1',
